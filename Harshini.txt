@@ -1,2 +1,2 @@
 This is about GitHub class and collaboration
-changing th commits in the repository
+changing the commits in the repository
